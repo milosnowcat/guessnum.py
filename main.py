@@ -46,6 +46,7 @@
 
 import random
 
+# This code is a simple number guessing game.
 number = random.randint(1, 100)
 guess = 0
 
