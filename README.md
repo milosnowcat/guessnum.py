@@ -23,7 +23,7 @@ Before installing the project, ensure you have Python installed on your system. 
 2. Navigate to the project directory:
 
    ```bash
-   cd GuessNum.py
+   cd guessnum.py
    ```
 
 That's it! You have successfully cloned the GuessNum.py project to your local machine.
@@ -41,7 +41,7 @@ GuessNum.py is a simple number guessing game in Python. Follow these steps to pl
 2. Run the game by executing the Python script:
 
    ```bash
-   python GuessNum.py
+   python main.py
    ```
 
 3. The game will generate a random number between 1 and 100.
